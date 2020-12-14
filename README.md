@@ -41,3 +41,5 @@ The last seven columns are one hot encoded classes, i.e. if the plate fault is c
 - Dirtiness
 - Bumps
 - Other_Faults
+
+EDA, feature engineering - https://nbviewer.jupyter.org/github/planeta-237/Faulty-Steel-Plates/blob/main/EDA%2C%20Feature%20engineering.ipynb
